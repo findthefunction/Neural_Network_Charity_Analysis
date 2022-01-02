@@ -36,7 +36,7 @@ The final attempt resulted in a lower score than the first model with a loss of 
 
 ## Summary
 
-The models were very instructivve and showed some of their limitations based on the input layers and the features selected for analysis. Increasing the layer count and number of nodes had varying affect but there seemed to be an issues will the model starting fresh after iterations.  Further review would included try diffrent feature combinations to see how they perform and experimenting with advanced activation and taking more time to analyse and fit the data.  Having powerful machine to process the models is a distinct advantage as running numerous iterations takes time.  Understading the underlying math behind the activations is very important.
+The models were very instructive and showed some of their limitations based on the input layers and the features selected for analysis. Increasing the layer count and number of nodes had varying affect, but there seemed to be an issues with the model starting fresh after iterations.  Further review would include trying diffrent feature combinations to see how they perform, experimenting with advanced activation and taking more time to analyse and fit the data.  Having powerful machine to process the models is a distinct advantage as running numerous iterations takes time.  Understading the underlying math behind the activations is very important.
 
 
 
